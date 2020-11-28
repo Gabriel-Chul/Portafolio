@@ -1,0 +1,50 @@
+﻿/* ENCABEZADO DEL MODAL DEL FORMULARIO DE CONTACTO */ 
+.header {
+    color: #36A0FF;
+    font-size: 27px;
+    padding: 10px;
+}
+
+/* CSS DE LOS ICONOS DEL FORMULARIO DE CONTACTO */ 
+.bigicon {
+    font-size: 35px;
+    color: #36A0FF;
+}
+
+/* FORMULARIO DE CONTACTO */ 
+.styles-form {
+	outline:0;
+	border-width:0 0 2px;
+	border-color: #a5abc7;
+	color:#2771cb!important;
+	width:100%;
+	background-color:#f1f1f1;
+	transition: all 0.5s ease-out;
+}
+
+.styles-form:hover {
+	border-color:#29abe2;
+	font-size:1.2em;
+
+}
+/* SELECT DEL FORMULARIO (¿PERTENECES A UNA EMPRESA?) */ 
+#select_html {
+	outline:0;
+	border-width:0 0 2px;
+	border-color: #a5abc7;
+	color:#2771cb!important;
+	width:100%;
+	background-color:#f1f1f1;
+	transition: all 0.5s ease-out;
+}
+
+#select_html:hover {
+	border-color:#29abe2;
+}
+
+/* BOTÓN "HAZ CLICK AQUÍ" */ 
+.click_here:hover {
+  font-size:1.1em;
+  transition: all 0.5s ease-out;
+  cursor: pointer;
+}
