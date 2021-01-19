@@ -4,7 +4,7 @@
  * (c) 2020 Chart.js Contributors
  * Released under the MIT License
  */
- var ctx = document.getElementById('myChart').getContext('2d');
+ var ctx = document.getElementById('HabilidadesChartJS').getContext('2d');
 var chart = new Chart(ctx, {
     // The type of chart we want to create
     type: 'bar',
