@@ -16,7 +16,7 @@ var chart = new Chart(ctx, {
             label: 'EXPERIENCIA EN LENGUAJES DEL 0 AL 100',
             backgroundColor: 'rgb(255, 99, 132)',
             borderColor: 'rgb(255, 99, 132)',
-            data: [90, 60, 65, 35, 15]
+            data: [70, 35, 50, 30, 5]
         }]
     },
 
